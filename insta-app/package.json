@@ -53,7 +53,7 @@
     "util": "^0.10.4",
     "vm-browserify": "0.0.4",
     "web3": "^1.0.0-beta.55",
-    "yarn": "^1.19.1"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
